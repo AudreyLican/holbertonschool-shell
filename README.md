@@ -1,1 +1,1 @@
-Waiting fot content
+ Waiting for content
