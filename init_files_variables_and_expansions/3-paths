@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | grep -ce "*/"
+find $PATH -type d | wc -l
